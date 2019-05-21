@@ -1,0 +1,87 @@
+body {
+    background-image: url(images/floral.png);
+    margin: 0px;
+}
+marquee{
+
+    background-color: red;
+    color: white;
+    height: 2em;
+    font-size: 2em;
+    font-family: serif;
+    
+}
+header {
+    background-color: gray;
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    font-size: large;
+    font-size: xx-large;
+    
+}
+#tech {
+    background-image: url(images/floral.png);
+    background-color: #f18d97;
+    padding: 2em 2em;
+    justify-content:center;
+    text-align: -webkit-center;
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    
+}
+#one {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: brown;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    font-size: large;
+    font-family: serif;
+    padding: 1em 1em;
+}
+#join-btn {
+    padding: 15px 30px;
+    font-family: -webkit-pictograph;
+    font-size: -webkit-xxx-large;
+    color: wheat;
+    border: none;
+    background-image: beige;
+    background-color: brown;
+}
+#Services {
+    background-image: url(images/floral.png);
+    background-color: #dfdfdf;
+    padding: 10px;
+    justify-content:center;
+    text-align: -webkit-center;
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+}
+#Services div{
+
+display: inline-block;
+font-family: serif;
+font-size: small;
+height: auto;
+width: 30%;
+
+}
+#Services  i{
+      font-size: 7em;
+
+
+}
+figcaption{
+
+ font-size: 2em;
+
+}
+
+#h2 {
+    
+    font-size: 2em ;
+    font-family: serif;
+    padding: 1em;
+}
+
